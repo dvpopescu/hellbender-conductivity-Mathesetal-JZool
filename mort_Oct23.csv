@@ -1,0 +1,39 @@
+﻿tank,total,pre,pre_prop,clutch,rack,ba,cond,impact,ud,switch,alternate,,,,
+1,10,9,0.9,a,a,before,low,c,c,n,beforelow,,,,
+7,10,7,0.7,b,a,before,low,c,c,n,beforelow,,,,
+9,10,7,0.7,d,a,before,low,c,c,n,beforelow,,avg,pre-switch,post-switch
+14,10,9,0.9,d,b,before,low,c,c,n,beforelow,,low,79.09090909,76.66666667
+16,10,8,0.8,a,b,before,low,c,c,n,beforelow,,high,67.5,27.5
+20,10,7,0.7,e,b,before,low,c,c,n,beforelow,,low-> high,,52.5
+3,10,10,1,c,a,before,low,c,c,y,beforelow,,high-> low,,58
+5,10,10,1,b,a,before,low,c,c,y,beforelow,,,,
+12,10,7,0.7,b,b,before,low,c,c,y,beforelow,,,,
+18,10,9,0.9,c,b,before,low,c,c,y,beforelow,,se,pre-switch,post-switch
+24,10,4,0.4,b,b,before,low,c,c,y,beforelow,,low,5.300865359,3.333333333
+8,10,10,1,c,a,before,high,c,c,n,beforehigh,,high,5.559594491,11.08677891
+15,10,7,0.7,b,b,before,high,c,c,n,beforehigh,,low-> high,,10.30776406
+19,10,6,0.6,d,b,before,high,c,c,n,beforehigh,,high-> low,,12
+21,10,2,0.2,d,b,before,high,c,c,n,beforehigh,,,,
+4,10,7,0.7,d,a,before,high,c,c,y,beforehigh,,,,
+10,10,5,0.5,e,a,before,high,c,c,y,beforehigh,,,,
+13,10,10,1,c,b,before,high,c,c,y,beforehigh,,,,
+17,10,7,0.7,b,b,before,high,c,c,y,beforehigh,,,,
+1,10,9,0.9,a,a,after,low,c,c,n,afterlow,,,,
+7,10,7,0.7,b,a,after,low,c,c,n,afterlow,,,,
+9,10,7,0.7,d,a,after,low,c,c,n,afterlow,,,,
+14,10,8,0.8,d,b,after,low,c,c,n,afterlow,,,,
+16,10,8,0.8,a,b,after,low,c,c,n,afterlow,,,,
+20,10,7,0.7,e,b,after,low,c,c,n,afterlow,,,,
+4,10,5,0.5,d,a,after,low,i,down,y,afterlow,,,,
+10,10,5,0.5,e,a,after,low,i,down,y,afterlow,,,,
+13,10,8,0.8,c,b,after,low,i,down,y,afterlow,,,,
+17,10,3,0.3,b,b,after,low,i,down,y,afterlow,,,,
+8,10,6,0.6,c,a,after,high,c,c,n,afterhigh,,,,
+15,10,2,0.2,b,b,after,high,c,c,n,afterhigh,,,,
+19,10,1,0.1,d,b,after,high,c,c,n,afterhigh,,,,
+21,10,2,0.2,d,b,after,high,c,c,n,afterhigh,,,,
+3,10,9,0.9,c,a,after,high,i,up,y,afterhigh,,,,
+5,10,3,0.3,b,a,after,high,i,up,y,afterhigh,,,,
+12,10,7,0.7,b,b,after,high,i,up,y,afterhigh,,,,
+18,10,7,0.7,c,b,after,high,i,up,y,afterhigh,,,,
+24,10,3,0.3,b,b,after,high,i,up,y,afterhigh,,,,
